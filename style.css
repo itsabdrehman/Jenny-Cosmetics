@@ -1,0 +1,35 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #fff8e1;
+    color: #5a3e1b;
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: #d4af37;
+    padding: 20px;
+    text-align: center;
+}
+nav a {
+    margin: 0 15px;
+    text-decoration: none;
+    color: #fff;
+}
+.hero {
+    padding: 50px;
+    text-align: center;
+    background-color: #fbeec1;
+}
+.product-grid {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+}
+.product {
+    background: #fff3cd;
+    padding: 20px;
+    border: 1px solid #d4af37;
+    border-radius: 10px;
+}
